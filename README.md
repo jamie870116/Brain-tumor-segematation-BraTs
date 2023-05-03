@@ -40,6 +40,9 @@ The [BraTs 2015](https://www.kaggle.com/datasets/andrewmvd/brain-tumor-segmentat
 Implemented Unet [[Original paper](https://arxiv.org/abs/1505.04597)]
 
 ## Result
+
+The images in the middle is the actual position of the tumors, the images in the right in the prediction of our model.
+
 <p align="center">
   <img src="assets/brats_result.png" alt="description of image" width="500" height="300"/>
 </p>
